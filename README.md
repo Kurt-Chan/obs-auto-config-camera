@@ -15,7 +15,7 @@ Download the WebCameraConfig on the [release page](https://github.com/SuslikV/cf
 - ✅ **`Apply Configuration.bat`** — Use this **if the camera settings don’t apply** after OBS opens.
 - ✅ **`Save Configuration.bat`** — Use this to **save new webcam settings** after you adjust them in OBS.
 - ✅ **`WebCameraConfig.exe`** — The tool that applies or saves your webcam settings (do not delete this).
-- ✅ **`vcredist_x86 & vcredist_x64`** — This might be needed if **Microsoft Redist 2013 ++** is not yet installed in the PC.
+- ✅ **`vcredist_x86 & vcredist_x64`** — This might be needed if **Microsoft Redist 2013 ++** is not yet installed in the PC. Download it vcredist_x86 [here](https://aka.ms/highdpimfc2013x86enu) and vcredist_x64 [here](https://aka.ms/highdpimfc2013x64enu)
 ---
 ### REMINDER: Make sure vcredist_x86 & vcredist_x64 are installed in the PC before using.
 
