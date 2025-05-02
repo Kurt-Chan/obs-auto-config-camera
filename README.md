@@ -1,6 +1,9 @@
 # 📄 OBS Auto Configuration Tool
 
-This tool helps automatically apply the correct camera settings when you launch OBS. It’s useful if your webcam settings reset after a restart or when OBS crashes.
+This tool helps automatically apply the correct camera settings when you launch OBS. It’s useful if your webcam settings reset after a restart or when OBS crashes. 
+
+This utilizes the WebCameraConfig.exe from [SuslikV](https://github.com/SuslikV).
+Download the WebCameraConfig on the [release page](https://github.com/SuslikV/cfg-cam/releases)
 
 ---
 
